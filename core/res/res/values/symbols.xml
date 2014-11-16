@@ -782,6 +782,8 @@
   <java-symbol type="string" name="quick_contacts_not_available" />
   <java-symbol type="string" name="reboot_safemode_confirm" />
   <java-symbol type="string" name="reboot_safemode_title" />
+  <java-symbol type="string" name="reboot_title" />
+  <java-symbol type="string" name="reboot_confirm" />
   <java-symbol type="string" name="relationTypeAssistant" />
   <java-symbol type="string" name="relationTypeBrother" />
   <java-symbol type="string" name="relationTypeChild" />
@@ -2157,4 +2159,5 @@
   <java-symbol type="bool" name="config_use_sim_language_file" />
   <java-symbol type="bool" name="config_LTE_eri_for_network_name" />
   <java-symbol type="bool" name="config_defaultInTouchMode" />
+
 </resources>

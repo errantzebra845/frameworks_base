@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-** Copyright (C) 2014, ParanoidAndroid Project
+/* Copyright (c) 2013, The Linux Foundation. All rights reserved.
+** Not a Contribution.
+**
+** Copyright 2012, The Android Open Source Project
 **
 ** Licensed under the Apache License, Version 2.0 (the "License");
 ** you may not use this file except in compliance with the License.
@@ -16,12 +19,9 @@
 */
 -->
 <resources>
-  <!--Setting confirmation dialog-->
-  <java-symbol type="style" name="Widget.GifView" />
-  <java-symbol type="id" name="setting_confirmation_dialog_visual_hint" />
-  <java-symbol type="id" name="setting_confirmation_dialog_visual_gif" />
-  <java-symbol type="layout" name="setting_confirmation_dialog" />
-  <java-symbol type="string" name="setting_confirmation_ask_me_later" />
-  <java-symbol type="string" name="setting_confirmation_yes" />
-  <java-symbol type="string" name="setting_confirmation_no" />
+  <string-array translatable="false" name="config_rebootActionsList">
+    <item>reboot</item>
+    <item>reboot_recovery</item>
+    <item>reboot_bootloader</item>
+  </string-array>
 </resources>
