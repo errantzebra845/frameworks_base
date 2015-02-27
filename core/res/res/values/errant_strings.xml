@@ -30,5 +30,9 @@
     <string name="global_action_reboot_sub">System</string>
     <string name="global_action_reboot_recovery">Recovery</string>
     <string name="global_action_reboot_bootloader">Bootloader</string>
+    <string name="global_action_current_user">Current</string>
+    <string name="hide_lock_to_app_dialog">Always start</string>
+    <string name="silent_mode_priority">Priority</string>
+    <string name="silent_mode_none">None</string>
 
 </resources>
