@@ -3840,6 +3840,12 @@ public final class Settings {
         public static final String VOICE_LAUNCH_INTENT = "voice_launch_intent";
 
         /**
+         * Wether navigation bar is enabled or not
+         * @hide
+         */
+        public static final String NAVIGATION_BAR_SHOW = "navigation_bar_show";
+
+        /**
          * Whether navigation bar is placed on the left side in landscape mode
          * @hide
          */
